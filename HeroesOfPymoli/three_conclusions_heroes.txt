@@ -1,0 +1,8 @@
+Three Conclusions from Heroes of Pymoli data
+
+1. Females spend 10% more per person than males.
+
+2. There is a player gap of 14.76% between 10-14 year olds and 15-19 year olds.
+   Further analysis is needed to determine the break point. Target ads to that age to increase revenue.
+
+3. The data is normally distributed across the bins.
